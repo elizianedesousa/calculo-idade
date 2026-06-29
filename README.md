@@ -77,6 +77,5 @@
             </p>
         </section>
     </main>
-    </footer>
 </body>
 </html>
